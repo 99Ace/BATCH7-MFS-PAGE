@@ -1,14 +1,17 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+This is a mock up sample using html and css to re-create a MFS website as requested by students (main landing page only)
 
+Original Website
+https://www.myfirstskool.com/
 
-Hi there! Welcome to AWS Cloud9!
+Link as follows:
+https://99ace.github.io/BATCH7-MFS-PAGE/
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Limitations: 
+- Carousell function not created 
+- Navigation are not functional
 
-Happy coding!
+Purpose of learning:
+- Apply HTML elements and CSS to style the page
+- Create personalised button
+- Create hero-image
+- Identify the layout and grouping of the elements
